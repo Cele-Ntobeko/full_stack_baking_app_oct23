@@ -1,5 +1,4 @@
-> Fullstack baked good delivery app using reactJs
-> ![this is the project thumbnail](./cake.jpg)
+> Fullstack baked good delivery app using reactJs </br> ![this is the project thumbnail](./cake.jpg)
 
 # Getting Started with Create React App
 
